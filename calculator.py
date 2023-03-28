@@ -10,4 +10,6 @@ def multifly(a,b):
 
 def divide_new(a,b):
 	return a/b
+def hello():
+	print("hello")
 	
